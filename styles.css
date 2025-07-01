@@ -17,7 +17,8 @@ header {
 }
 
  head {
-position:fixed top 0;
+
+position:"class="link-underline-danger">Danger underline" fixed top 0;
 right: 18;
 }
 
